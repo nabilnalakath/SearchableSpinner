@@ -7,7 +7,7 @@ First Add this line to your dependencies in build.gradle of your app module
 
 Add this code in XML wherever you need the Spinner:
 
-<com.toptoche.searchablespinnerlibrary.SearchableSpinner
+        <com.toptoche.searchablespinnerlibrary.SearchableSpinner
         android:id="@+id/spinner1"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
